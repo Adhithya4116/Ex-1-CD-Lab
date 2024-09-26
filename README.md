@@ -1,4 +1,6 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
+# NAME : ADHITHYA PERUMAL D
+# REG.NO: 212222230007
 # AIM :
 To Write a C program to implement a symbol table.
 # ALGORITHM
